@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c628424a-6f91-48c5-89e7-46b75e3cdfdf" name="jalex@JALEX-LT 2012-06-13 12:55:20" runUser="LDCINT\jalex" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1d5d2eda-23a7-40a0-a866-8860f7c71cd4">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="jalex_JALEX-LT 2012-06-13 12_55_20">
+      <DeploymentItem filename="C:\Users\jalex\gitQATestCode1\QATest\Bank\Bank\bin\Debug\Bank.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-13T12:55:20.2466363-07:00" queuing="2012-06-13T12:55:20.2686363-07:00" start="2012-06-13T12:55:20.2736363-07:00" finish="2012-06-13T12:55:20.4246363-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DebitTest" storage="c:\users\jalex\gitqatestcode1\qatest\bank\testproject1\bin\debug\testproject1.dll" id="26bfaab1-75c4-8f62-7229-929a1e9a0aee">
+      <Execution id="feb85a03-5f26-4e9a-b21b-b2833a0af8fd" />
+      <TestMethod codeBase="C:/Users/jalex/gitQATestCode1/QATest/Bank/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.BankAccountTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DebitTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="26bfaab1-75c4-8f62-7229-929a1e9a0aee" executionId="feb85a03-5f26-4e9a-b21b-b2833a0af8fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="feb85a03-5f26-4e9a-b21b-b2833a0af8fd" testId="26bfaab1-75c4-8f62-7229-929a1e9a0aee" testName="DebitTest" computerName="JALEX-LT" duration="00:00:00.0107604" startTime="2012-06-13T12:55:20.2766363-07:00" endTime="2012-06-13T12:55:20.4136363-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feb85a03-5f26-4e9a-b21b-b2833a0af8fd">
+    </UnitTestResult>
+  </Results>
+</TestRun>
