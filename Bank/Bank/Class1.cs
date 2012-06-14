@@ -55,7 +55,7 @@ namespace BankAccountNS
 
             m_balance += amount;
 
-            bug   //////bug
+            //bug   //////bug
         }
 
         public void Credit(double amount)
