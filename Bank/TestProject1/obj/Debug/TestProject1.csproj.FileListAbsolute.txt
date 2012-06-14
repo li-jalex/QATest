@@ -2,8 +2,8 @@ C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\bin\Debug\TestProject1.dl
 C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\bin\Debug\TestProject1.pdb
 C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\bin\Debug\Bank.dll
 C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\bin\Debug\Bank.pdb
+C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\bin\Debug\Bank_Accessor.dll
+C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\bin\Debug\Bank_Accessor.pdb
 C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\obj\Debug\TestProject1.dll
 C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\obj\Debug\TestProject1.pdb
-C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\bin\Debug\Bank_Accessor.dll
-C:\Users\jalex\gitQATestCode1\QATest\Bank\TestProject1\bin\Debug\Bank_Accessor.pdb

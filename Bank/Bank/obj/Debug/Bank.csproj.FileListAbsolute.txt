@@ -1,5 +1,5 @@
+C:\Users\jalex\gitQATestCode1\QATest\Bank\Bank\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\jalex\gitQATestCode1\QATest\Bank\Bank\bin\Debug\Bank.dll
 C:\Users\jalex\gitQATestCode1\QATest\Bank\Bank\bin\Debug\Bank.pdb
-C:\Users\jalex\gitQATestCode1\QATest\Bank\Bank\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\jalex\gitQATestCode1\QATest\Bank\Bank\obj\Debug\Bank.dll
 C:\Users\jalex\gitQATestCode1\QATest\Bank\Bank\obj\Debug\Bank.pdb
