@@ -22,6 +22,7 @@ namespace BankAccountNS
 
         public BankAccount(string customerName, double balance)
         {
+            //test comments**********
             m_customerName = customerName;
             m_balance = balance;
         }
